@@ -273,6 +273,7 @@ p.paragraph {
 @media (max-width: 900px) {
 	.footer .center {
 
+		
 		flex-direction: column;
 	}
 	.footer .col-7,
@@ -325,4 +326,5 @@ p.paragraph {
 }
 
 .leadImage {
-	margin: auto; }
+	margin: auto; 
+	display: block; }
